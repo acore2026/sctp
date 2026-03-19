@@ -1,4 +1,4 @@
-module github.com/free5gc/sctp
+module github.com/acore2026/sctp
 
 go 1.25.5
 

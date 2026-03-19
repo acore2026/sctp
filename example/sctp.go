@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/free5gc/sctp"
+	"github.com/acore2026/sctp"
 )
 
 func serveClient(conn net.Conn, bufsize int) error {
